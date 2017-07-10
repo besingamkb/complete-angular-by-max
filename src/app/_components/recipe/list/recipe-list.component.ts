@@ -1,6 +1,6 @@
-import { Conpoment } from '@angular/core';
+import { Component } from '@angular/core';
 
-@Conpoment({
+@Component({
     selector: 'app-recipe-list',
     templateUrl: './recipe-list.component.html',
     styleUrls: ['./recipe-list.component.css']
