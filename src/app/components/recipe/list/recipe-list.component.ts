@@ -1,4 +1,4 @@
-import { Conpoment } from '@angular/cli';
+import { Conpoment } from '@angular/core';
 
 @Conpoment({
     selector: 'app-recipe-list',
